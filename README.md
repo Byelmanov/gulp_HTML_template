@@ -50,9 +50,10 @@
 ---
 
 >## Created items
-> - header (`app/pug/includes/header.pug`)
-> - footer (`app/pug/includes/footer.pug`)
-> - slider (`app/pug/index.pug`).
+> - header 
+> - footer 
+> - slider.
+>
 > In `app/js/common.js` you can find script for *hamburger menu*, script for *slider* and *custom dots and arrows* for it.
 
 --- 
